@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194506290484",
+    "project_id": "digital-meet-online",
+    "storage_bucket": "digital-meet-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194506290484:android:cdc8e918feff98bfb2a161",
+        "android_client_info": {
+          "package_name": "com.dmo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIHauSLRNUq3ML1qYJeO3MMzYyXOxXhG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
